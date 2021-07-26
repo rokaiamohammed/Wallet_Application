@@ -22,8 +22,10 @@ A new Flutter project.
 ## Home Page after logingin
 
 ![](Home_page.png)
+
 ## Cloud Firestore contain amount of coins for each type
 ![](database_in_Account.png)
+
 ## Add Page
 
 ![](Add_page.png)
